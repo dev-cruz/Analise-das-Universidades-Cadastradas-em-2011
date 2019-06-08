@@ -1,7 +1,7 @@
 <h1>Análise das Universidades Cadastradas em 2011</h1>
 <p>O presente repositório trata-se de uma análise das universidades cadastradas em 2011.<br>Somente foram analisadas as universidades cadastradas no estado de São Paulo.<p/>
 
-<p>Em um primeiro momento, foco da análise foi em comparar quantidades entre:
+<p>Em um primeiro momento, o foco da análise foi em comparar quantidades entre:
   <ul>
     <li>Tipos de organizações - Universidade, Faculdade e Centro Universitário.    
     <li>Tipos de departamentos - Federal, Estadual, Municipal e Privada.    
